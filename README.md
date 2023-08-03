@@ -8,7 +8,8 @@ The project was inteded to implement DRF to create api endpoints
 ## Description
 
 The DRF app provides api endpoints for car app using which mobile apps or third party apps can be integrated.
-The app offers two endpoints to access list of brands and respective models.
+The app offers two endpoints to access list of brands and respective models. HTTP GET POST requests were successfuly tested 
+on Postman.
 
 
 ## Installation
